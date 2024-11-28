@@ -30,7 +30,7 @@ Currently diving deeper into:
 
 ## 📫 How to Reach Me  
 - 💼 LinkedIn: [Manohar Barma](https://www.linkedin.com/in/Manoharbarma07)  
-- 📧 Email: your_email@example.com  
+- 📧 Email: manoharbarma07@gmail.com  
 
 ## 🚀 Fun Facts  
 - I enjoy automating complex workflows to boost efficiency.  
